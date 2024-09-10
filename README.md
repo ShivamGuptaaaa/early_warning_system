@@ -40,7 +40,7 @@ The system generates alerts for students flagged as "at-risk" by the model. Aler
 Educators receive these alerts via **email notifications**, allowing them to take timely and informed actions.
 
 ## 🤖 Technical Stack
-**Programming Language:** Python
-**Libraries:** Pandas, Scikit-learn, NumPy, Matplotlib, Seaborn, Flask
-**Notification System:** SMTP for email alerts
+- **Programming Language:** Python.
+- **Libraries:** Pandas, Scikit-learn, NumPy, Matplotlib, Seaborn, Flask.
+- **Notification System:** SMTP for email alerts.
 
