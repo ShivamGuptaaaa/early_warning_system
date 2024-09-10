@@ -1,0 +1,144 @@
+student_id,date,incident_type,year
+1,2022-04-06,Disruption,2021
+5,2023-01-24,Disruption,2022
+9,2023-01-09,Fighting,2022
+11,2023-12-27,Tardiness,2023
+14,2024-03-25,Fighting,2023
+16,2023-09-13,Disruption,2023
+18,2021-09-24,Homework Incompletion,2021
+18,2022-04-26,Tardiness,2021
+24,2021-09-06,Tardiness,2021
+33,2022-02-11,Homework Incompletion,2021
+33,2021-09-06,Tardiness,2021
+40,2024-01-01,Tardiness,2023
+41,2022-11-24,Homework Incompletion,2022
+41,2023-09-19,Fighting,2023
+54,2022-09-07,Homework Incompletion,2022
+55,2023-03-02,Fighting,2022
+61,2023-10-19,Fighting,2023
+61,2024-02-16,Tardiness,2023
+62,2022-02-10,Tardiness,2021
+62,2022-12-23,Homework Incompletion,2022
+64,2022-01-05,Tardiness,2021
+71,2022-04-29,Tardiness,2021
+76,2023-10-02,Homework Incompletion,2023
+77,2021-11-09,Homework Incompletion,2021
+77,2022-05-04,Homework Incompletion,2021
+94,2024-05-02,Disruption,2023
+97,2024-02-02,Disruption,2023
+99,2022-10-13,Fighting,2022
+103,2021-11-18,Tardiness,2021
+103,2021-12-31,Tardiness,2021
+107,2023-01-06,Tardiness,2022
+108,2023-04-13,Tardiness,2022
+114,2023-01-05,Disruption,2022
+115,2023-02-15,Tardiness,2022
+116,2021-10-29,Tardiness,2021
+117,2023-02-16,Tardiness,2022
+120,2021-11-15,Disruption,2021
+130,2022-03-31,Fighting,2021
+130,2023-09-11,Fighting,2023
+135,2023-10-11,Fighting,2023
+136,2022-02-28,Fighting,2021
+137,2024-04-12,Homework Incompletion,2023
+137,2024-02-13,Tardiness,2023
+139,2021-11-11,Disruption,2021
+139,2022-12-29,Disruption,2022
+145,2024-03-27,Disruption,2023
+156,2022-02-07,Tardiness,2021
+160,2021-09-20,Fighting,2021
+164,2022-11-24,Disruption,2022
+165,2024-03-21,Homework Incompletion,2023
+168,2023-11-23,Tardiness,2023
+169,2023-02-28,Tardiness,2022
+172,2022-02-17,Tardiness,2021
+175,2022-04-01,Disruption,2021
+176,2022-12-15,Fighting,2022
+177,2022-03-30,Fighting,2021
+177,2022-12-29,Tardiness,2022
+178,2023-01-12,Tardiness,2022
+182,2022-04-26,Tardiness,2021
+184,2023-10-16,Fighting,2023
+185,2021-12-22,Tardiness,2021
+188,2024-03-08,Fighting,2023
+195,2022-11-21,Fighting,2022
+195,2023-01-19,Homework Incompletion,2022
+195,2024-02-09,Homework Incompletion,2023
+196,2024-04-19,Homework Incompletion,2023
+202,2023-01-17,Fighting,2022
+206,2024-04-30,Disruption,2023
+208,2022-09-05,Tardiness,2022
+210,2021-12-14,Fighting,2021
+210,2024-01-30,Tardiness,2023
+213,2021-10-20,Fighting,2021
+226,2022-10-20,Fighting,2022
+227,2023-02-21,Homework Incompletion,2022
+228,2022-01-24,Homework Incompletion,2021
+231,2022-03-08,Homework Incompletion,2021
+232,2021-10-04,Fighting,2021
+234,2023-09-20,Homework Incompletion,2023
+237,2023-11-15,Tardiness,2023
+246,2024-04-09,Tardiness,2023
+247,2023-12-01,Fighting,2023
+248,2022-10-06,Fighting,2022
+250,2023-10-27,Tardiness,2023
+253,2021-10-25,Tardiness,2021
+258,2023-03-02,Tardiness,2022
+262,2024-01-05,Disruption,2023
+270,2023-02-06,Fighting,2022
+274,2022-10-25,Disruption,2022
+277,2022-11-18,Homework Incompletion,2022
+279,2022-10-19,Homework Incompletion,2022
+285,2023-12-13,Disruption,2023
+286,2024-03-18,Tardiness,2023
+287,2024-01-19,Homework Incompletion,2023
+288,2024-01-11,Tardiness,2023
+289,2022-03-14,Tardiness,2021
+289,2021-12-06,Disruption,2021
+292,2024-02-20,Homework Incompletion,2023
+300,2023-09-12,Disruption,2023
+302,2022-12-29,Disruption,2022
+302,2024-01-03,Fighting,2023
+310,2022-03-01,Homework Incompletion,2021
+313,2022-03-01,Tardiness,2021
+316,2023-11-14,Disruption,2023
+317,2022-02-09,Homework Incompletion,2021
+320,2024-03-27,Fighting,2023
+321,2024-01-10,Homework Incompletion,2023
+325,2021-12-07,Homework Incompletion,2021
+333,2023-10-30,Homework Incompletion,2023
+336,2023-04-26,Disruption,2022
+338,2024-02-16,Disruption,2023
+342,2021-12-28,Disruption,2021
+347,2023-10-30,Fighting,2023
+348,2023-09-21,Fighting,2023
+354,2022-12-02,Tardiness,2022
+355,2024-04-15,Tardiness,2023
+357,2021-10-12,Tardiness,2021
+359,2021-10-11,Fighting,2021
+360,2022-09-21,Disruption,2022
+360,2023-10-13,Homework Incompletion,2023
+362,2023-03-20,Homework Incompletion,2022
+363,2022-04-25,Fighting,2021
+372,2022-11-04,Disruption,2022
+375,2022-10-19,Fighting,2022
+379,2022-03-10,Tardiness,2021
+392,2022-04-20,Tardiness,2021
+401,2023-10-03,Tardiness,2023
+417,2023-02-24,Fighting,2022
+431,2021-10-21,Tardiness,2021
+434,2021-09-22,Disruption,2021
+435,2021-09-13,Homework Incompletion,2021
+437,2023-10-30,Tardiness,2023
+438,2023-12-26,Homework Incompletion,2023
+440,2022-10-24,Disruption,2022
+448,2023-02-13,Disruption,2022
+456,2022-11-29,Fighting,2022
+461,2022-01-20,Disruption,2021
+462,2022-01-19,Disruption,2021
+462,2024-03-04,Tardiness,2023
+469,2021-10-06,Fighting,2021
+483,2022-03-11,Homework Incompletion,2021
+487,2022-02-25,Tardiness,2021
+489,2022-01-14,Fighting,2021
+489,2022-04-13,Fighting,2021
